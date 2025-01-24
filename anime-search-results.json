@@ -1,0 +1,22 @@
+{
+    "animeSearchResults": [
+        {
+            "imageLink": "https://example.com/image1.jpg",
+            "hyperLink": "https://example.com/anime1",
+            "name": "Anime 1",
+            "description": "Description of Anime 1"
+        },
+        {
+            "imageLink": "https://example.com/image2.jpg",
+            "hyperLink": "https://example.com/anime2",
+            "name": "Anime 2",
+            "description": "Description of Anime 2"
+        },
+        {
+            "imageLink": "https://example.com/image3.jpg",
+            "hyperLink": "https://example.com/anime3",
+            "name": "Anime 3",
+            "description": "Description of Anime 3"
+        }
+    ]
+}
