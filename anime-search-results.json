@@ -36,6 +36,12 @@
         "url": "https://better-anime.github.io/watch/demon-slayer"
     },
     {
+        "title": "Dr. Stone",
+        "description": "",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYzZkYjM1MWMtNTY3Mi00MTMzLTlhNmQtN2ExZjFkYzdjZmFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://better-anime.github.io/watch/dr-stone"
+    },
+    {
         "title": "Erased",
         "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BZWQ2YmI5NWMtZTY2Mi00MGUxLWFhMmEtYjVjZjMwOTNkOThjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
@@ -105,7 +111,7 @@
         "title": "The Faraway Paladin",
         "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BMWFlODMxNGEtMWU4NS00ZDQyLTk0MzItMWVjZGVjMWEyOWZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/anime-not-ready"
+        "url": "https://better-anime.github.io/watch/the-faraway-paladin"
     },
     {
         "title": "The Irregular at Magic High School",
