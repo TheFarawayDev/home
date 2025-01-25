@@ -8,7 +8,13 @@
     {
         "title": "One Piece",
         "description": "Join Luffy and his pirate crew on their journey to find the One Piece.",
-        "image_url": "https://path/to/image2.jpg",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_.jpg",
         "url": "https://link-to-watch2.com"
+    },
+    {
+        "title": "Berserk Of Gluttony",
+        "description": "Action | Adventure | Fantasy",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNGI3NTg0YjEtZmVjZS00OWZjLTg1OTUtYjJmMmJlMTNhZWE3XkEyXkFqcGc@._V1_.jpg",
+        "url": "https://better-anime.github.io/watch/berserk-of-gluttony"
     }
 ]
