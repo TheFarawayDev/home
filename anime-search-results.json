@@ -3,18 +3,150 @@
         "title": "Naruto",
         "description": "A young ninja's quest to become Hokage and earn respect.",
         "image_url": "https://m.media-amazon.com/images/M/MV5BZTNjOWI0ZTAtOGY1OS00ZGU0LWEyOWYtMjhkYjdlYmVjMDk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://link-to-watch.com"
+        "url": "https://better-anime.github.io/watch/anime-not-ready"
     },
     {
         "title": "One Piece",
         "description": "Join Luffy and his pirate crew on their journey to find the One Piece.",
         "image_url": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://link-to-watch2.com"
+        "url": "https://better-anime.github.io/watch/anime-not-ready"
     },
     {
         "title": "Berserk Of Gluttony",
         "description": "Action | Adventure | Fantasy",
         "image_url": "https://m.media-amazon.com/images/M/MV5BNGI3NTg0YjEtZmVjZS00OWZjLTg1OTUtYjJmMmJlMTNhZWE3XkEyXkFqcGc@._V1_.jpg",
         "url": "https://better-anime.github.io/watch/berserk-of-gluttony"
+    },
+    {
+        "title": "Black Clover",
+        "description": "",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZmZkZjNhMWMtM2U0Mi00MjdlLTk3NmMtMTMwZjgwOTJmODMzXkEyXkFqcGc@._V1_.jpg",
+        "url": "https://better-anime.github.io/watch/black-clover"
+    },
+    {
+        "title": "Bleach",
+        "description": "",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOWQwOWY5NTUtMjAyZi00YjQzLTkwODgtNmQwZjU1MGIzZDhjXkEyXkFqcGc@._V1_.jpg",
+        "url": "https://better-anime.github.io/watch/bleach"
+    },
+    {
+        "title": "Dandadan",
+        "description": "",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYWFhOWMxNTYtZThiMi00ZmQ5LTlmODktN2QwNzUyZjMyZGQzXkEyXkFqcGc@._V1_.jpg",
+        "url": "https://better-anime.github.io/watch/dandadan"
+    },
+    {
+        "title": "Death Note",
+        "description": "",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYTgyZDhmMTEtZDFhNi00MTc4LTg3NjUtYWJlNGE5Mzk2NzMxXkEyXkFqcGc@._V1_.jpg",
+        "url": "https://better-anime.github.io/watch/death-note"
+    },
+    {
+        "title": "Demon Slayer",
+        "description": "",
+        "image_url": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/765ee047befcfb677d169f5de4c82d5c.jpg",
+        "url": "https://better-anime.github.io/watch/demon-slayer"
+    },
+    {
+        "title": "Erased",
+        "description": "",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZWQ2YmI5NWMtZTY2Mi00MGUxLWFhMmEtYjVjZjMwOTNkOThjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://better-anime.github.io/watch/erased"
+    },
+    {
+        "title": "Tomodachi Game",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/friends-game"
+    },
+    {
+        "title": "Higehiro",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/higehiro"
+    },
+    {
+        "title": "Is This A Zombie?",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/is-this-a-zombie"
+    },
+    {
+        "title": "Jujutsu Kaisen",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/jujutsu-kaisen"
+    },
+    {
+        "title": "ReLIFE",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/relife"
+    },
+    {
+        "title": "Shikimori's Not Just A Cutie",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/shikimoris-not-just-a-cutie"
+    },
+    {
+        "title": "Solo Leveling",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/solo-leveling"
+    },
+    {
+        "title": "Spy X Family",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/spy-x-family"
+    },
+    {
+        "title": "Taboo Tattoo",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/taboo-tattoo"
+    },
+    {
+        "title": "Terror In Resonance",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/terror-in-resonance"
+    },
+    {
+        "title": "The Faraway Paladin",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/anime-not-ready"
+    },
+    {
+        "title": "The Irregular at Magic High School",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/the-irregular-at-magic-high-school"
+    },
+    {
+        "title": "The Reincarnation Of The Strongest Exorcist",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/trotse"
+    },
+    {
+        "title": "Toradora",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/toradora"
+    },
+    {
+        "title": "Vermeil In Gold",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/vermeil-in-gold"
+    },
+    {
+        "title": "Yamada-Kun And The Seven Witches",
+        "description": "",
+        "image_url": "",
+        "url": "https://better-anime.github.io/watch/yamada-kun-and-the-seven-witches"
     }
 ]

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Search Results</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/Better-Anime/Watch/refs/heads/main/BA.png">
+    <style>
+        /* Anime List Styles */
+        .anime-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            justify-content: center;
+            padding: 1rem;
+        }
+
+        .anime-item {
+            background-color: #fff;
+            border: 1px solid #ccd1d9;
+            border-radius: 8px;
+            overflow: hidden;
+            width: calc(33.333% - 1rem);
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+            border: 2.5px solid #000000;
+        }
+
+        .anime-item:hover {
+            transform: translateY(-5px);
+        }
+
+        .anime-item img {
+            width: 100%;
+            height: auto;
+            border-bottom: 2.5px solid #000000;
+        }
+
+        .anime-info {
+            padding: 1rem;
+            text-align: justify;
+        }
+
+        .anime-info h3 {
+            margin: 0 0 0.5rem;
+            font-size: 1.2rem;
+            color: #333;
+        }
+
+        .anime-info p {
+            margin: 0 0 0.5rem;
+            font-size: 0.9rem;
+            color: #555;
+        }
+
+        .anime-info a {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background-color: #3A4F63;
+            color: #fff;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+            width: 100%;
+        }
+
+        .anime-info a:hover {
+            background-color: #0056b3;
+        }
+
+        /* Media Queries for Responsiveness */
+        @media (max-width: 768px) {
+            .anime-item {
+                width: calc(50% - 1rem); /* Two items per row on tablets */
+            }
+        }
+
+        @media (max-width: 480px) {
+            .anime-item {
+                width: 100%; /* One item per row on smaller devices */
+            }
+        }
+
+        header {
+            padding: 1rem 2rem;
+            background-color: #4A88D7;
+            color: #fff;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .logo a {
+            color: #fff;
+            font-size: 1.5rem;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .logo a:hover {
+            color: #3A4F63;
+        }
+
+        main {
+            padding: 1rem;
+        }
+
+        footer {
+            background-color: #3A4F63;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo"><a href="#">Better Anime</a></div>
+    </header>
+
+    <main>
+        <div id="results" class="anime-list"></div>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Better Anime. All rights reserved. 3rd Party Sites Provide Access To Media.</p>
+    </footer>
+
+    <script>
+        // Fetch JSON data
+        fetch('https://raw.githubusercontent.com/better-anime/home/main/anime-search-results.json')
+            .then(response => response.json())
+            .then(data => {
+                const resultsContainer = document.getElementById('results');
+
+                // Ensure data is an array
+                const resultsArray = Array.isArray(data) ? data : [];
+
+                // Get search query from URL
+                const params = new URLSearchParams(window.location.search);
+                const query = params.get('query');
+
+                if (query) {
+                    document.title = `Results for "${query}"`;
+                    const filteredResults = resultsArray.filter(result =>
+                        result.title.toLowerCase().includes(query.toLowerCase())
+                    );
+
+                    if (filteredResults.length > 0) {
+                        filteredResults.forEach(result => {
+                            const resultItem = document.createElement("div");
+                            resultItem.classList.add("anime-item");
+
+                            resultItem.innerHTML = `
+                                <img src="${result.image_url}" alt="${result.title}">
+                                <div class="anime-info">
+                                    <h3>${result.title}</h3>
+                                    <p>${result.description}</p>
+                                    <hr>
+                                    <a href="${result.url}" target="_blank">Watch Now</a>
+                                </div>
+                            `;
+                            resultsContainer.appendChild(resultItem);
+                        });
+                    } else {
+                        resultsContainer.innerHTML = `<p>No results found for "<strong>${query}</strong>". Try a different search!</p>`;
+                    }
+                } else {
+                    resultsContainer.innerHTML = "<p>No query provided. Go back and try again.</p>";
+                }
+            })
+            .catch(error => {
+                console.error("Error fetching data:", error);
+                const resultsContainer = document.getElementById('results');
+                resultsContainer.innerHTML = "<p>Sorry, something went wrong. Please try again later.</p>";
+            });
+    </script>
+</body>
+</html>
