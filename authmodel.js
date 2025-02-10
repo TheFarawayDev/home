@@ -11,10 +11,8 @@
         const credentials = await response.json();
 
         if (credentials[username] === password) {
-          alert('Access Granted');
           authModal.style.display = 'none';
         } else {
-          alert('Access Denied');
           window.close(); // Close the site if credentials are wrong
         }
       } catch (error) {
