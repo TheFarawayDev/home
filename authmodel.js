@@ -13,6 +13,7 @@
         if (credentials[username] === password) {
           authModal.style.display = 'none';
         } else {
+          alert('Invalid credentials! Closing Site...');
           window.close(); // Close the site if credentials are wrong
         }
       } catch (error) {
