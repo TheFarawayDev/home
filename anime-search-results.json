@@ -1,206 +1,274 @@
 [
     {
         "title": "Alderamin On The Sky",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYmNkMjJlMmEtNzJlNC00MTE5LTljOTAtYTFiMzFiNDhjOWM4XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/alderamin-on-the-sky"
+        "url": "https://better-anime.github.io/watch/alderamin-on-the-sky",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     },
     {
         "title": "Amagi Brilliant Park",
-        "description": "",
         "image_url": "https://imgs.search.brave.com/ywEdvaKRWDHvvp3uTdZNcOyOf9Q2bkcbCu0C2lbIWZU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QllUQmhOVEJt/TVdNdFptRmlOQzAw/TWpRMkxXSmhOV0l0/TkRGbE5EQmhObUUy/T1RsalhrRXlYa0Zx/Y0djQC5qcGc",
-        "url": "https://better-anime.github.io/watch/amagi-brilliant-park"
+        "url": "https://better-anime.github.io/watch/amagi-brilliant-park",
+        "dub_count": "13",
+        "sub_count": "13",
+        "episodes": "13"
     },
     {
         "title": "Berserk Of Gluttony",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BNGI3NTg0YjEtZmVjZS00OWZjLTg1OTUtYjJmMmJlMTNhZWE3XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/berserk-of-gluttony"
+        "url": "https://better-anime.github.io/watch/berserk-of-gluttony",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     },
     {
         "title": "Black Clover",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BZmZkZjNhMWMtM2U0Mi00MjdlLTk3NmMtMTMwZjgwOTJmODMzXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/black-clover"
+        "url": "https://better-anime.github.io/watch/black-clover",
+        "dub_count": "170",
+        "sub_count": "170",
+        "episodes": "170"
     },
     {
         "title": "Bleach",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BOWQwOWY5NTUtMjAyZi00YjQzLTkwODgtNmQwZjU1MGIzZDhjXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/bleach"
+        "url": "https://better-anime.github.io/watch/bleach",
+        "dub_count": "366",
+        "sub_count": "366",
+        "episodes": "366"
     },
     {
         "title": "Chainsaw Man",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BZGY2ZTM2MWMtNzA2OS00ZjJlLWIwZTMtMDBhN2EwYjZjZjEyXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/chainsaw-man"
+        "url": "https://better-anime.github.io/watch/chainsaw-man",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     },
     {
         "title": "Cyberpunk 2077: Edgerunners",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BM2JkMzM2ZmYtNWU4MS00MjZhLWFhZWUtYWFjYTJkN2RhZDliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/cyberpunk-2077-edgerunners"
+        "url": "https://better-anime.github.io/watch/cyberpunk-2077-edgerunners",
+        "dub_count": "10",
+        "sub_count": "10",
+        "episodes": "10"
     },
     {
         "title": "Dandadan",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYWFhOWMxNTYtZThiMi00ZmQ5LTlmODktN2QwNzUyZjMyZGQzXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/dandadan"
+        "url": "https://better-anime.github.io/watch/dandadan",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     },
     {
         "title": "Death Note",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYTgyZDhmMTEtZDFhNi00MTc4LTg3NjUtYWJlNGE5Mzk2NzMxXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/death-note"
+        "url": "https://better-anime.github.io/watch/death-note",
+        "dub_count": "37",
+        "sub_count": "37",
+        "episodes": "37"
     },
     {
         "title": "Demon Slayer",
-        "description": "",
         "image_url": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/765ee047befcfb677d169f5de4c82d5c.jpg",
-        "url": "https://better-anime.github.io/watch/demon-slayer"
+        "url": "https://better-anime.github.io/watch/demon-slayer",
+        "dub_count": "63",
+        "sub_count": "63",
+        "episodes": "63"
     },
     {
         "title": "D-Frag!",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BOTg5YzgzNDItMDM2Yy00OGIxLWJmNzItZGU2MDVkMDZhNTk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/d-frag"
+        "url": "https://better-anime.github.io/watch/d-frag",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     },
     {
         "title": "Dr. Stone",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYzZkYjM1MWMtNTY3Mi00MTMzLTlhNmQtN2ExZjFkYzdjZmFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/dr-stone"
+        "url": "https://better-anime.github.io/watch/dr-stone",
+        "dub_count": "57",
+        "sub_count": "57",
+        "episodes": "57"
     },
     {
         "title": "Erased",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BZWQ2YmI5NWMtZTY2Mi00MGUxLWFhMmEtYjVjZjMwOTNkOThjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/erased"
+        "url": "https://better-anime.github.io/watch/erased",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     },
     {
         "title": "Tomodachi Game",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYjM1Yjk4NjYtM2I2Yi00MDFmLThmNGMtNTI2ZWYzOTM3MWFjXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/friends-game"
+        "url": "https://better-anime.github.io/watch/friends-game",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     },
     {
         "title": "Higehiro",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BODk5M2MzZWMtMDY5NS00MzM0LTkyOTgtZWQxNWNmOWUwNmYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/higehiro"
+        "url": "https://better-anime.github.io/watch/higehiro",
+        "dub_count": "13",
+        "sub_count": "13",
+        "episodes": "13"
     },
     {
         "title": "Is This A Zombie?",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BMDczOGMzY2MtYzY4Ni00MzJkLTgyMmUtZmIyZTk0ZTFkYzgwXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/is-this-a-zombie"
+        "url": "https://better-anime.github.io/watch/is-this-a-zombie",
+        "dub_count": "22",
+        "sub_count": "22",
+        "episodes": "22"
     },
     {
         "title": "Jujutsu Kaisen",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BNmI1MmYxNWQtY2E5NC00ZTlmLWIzZGEtNzM1YmE3NDA5NzhjXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/jujutsu-kaisen"
+        "url": "https://better-anime.github.io/watch/jujutsu-kaisen",
+        "dub_count": "47",
+        "sub_count": "47",
+        "episodes": "47"
     },
     {
         "title": "Medaka Kuroiwa is Impervious to My Charms",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BNzIxMjFmMDYtYWU4ZC00MTUzLWJhYzUtNjE4YzYyOTAyYzllXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/medaka-kuroiwa-is-impervious-to-my-charms"
+        "url": "https://better-anime.github.io/watch/medaka-kuroiwa-is-impervious-to-my-charms",
+        "dub_count": "N/A",
+        "sub_count": "N/A",
+        "episodes": "12"
     },
     {
         "title": "My Star",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYzM3ZGJkN2YtOTQ5Ny00MzEyLTlkMzQtZDVhYzM3YWFlM2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/my-star"
+        "url": "https://better-anime.github.io/watch/my-star",
+        "dub_count": "24",
+        "sub_count": "24",
+        "episodes": "24"
     },
     {
         "title": "ReLIFE",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BOGViMzRkYzctM2IyNi00OWFmLTliMDMtNjk1MmE0M2QyM2I1XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/relife"
+        "url": "https://better-anime.github.io/watch/relife",
+        "dub_count": "17",
+        "sub_count": "17",
+        "episodes": "17"
     },
     {
         "title": "The Seven Deadly Sins",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BODgxZGI4NjQtODViMy00Y2JmLWI1MTktNWExMjlmMmZhMzE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/7-deadly-sins"
+        "url": "https://better-anime.github.io/watch/7-deadly-sins",
+        "dub_count": "100",
+        "sub_count": "100",
+        "episodes": "100"
     },
     {
         "title": "Shikimori's Not Just A Cutie",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYzM0MGRlMzEtMWIwNi00ZjAzLWIzODItMDNlNmM0MGU4MTY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/shikimoris-not-just-a-cutie"
+        "url": "https://better-anime.github.io/watch/shikimoris-not-just-a-cutie",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     },
     {
         "title": "Sakamoto Days",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BM2MwZDRmYWItNGIzZC00ZWExLWEwNWYtNmM1ZmU3OTA3NmY4XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/sakamoto-days"
+        "url": "https://better-anime.github.io/watch/sakamoto-days",
+        "dub_count": "N/A",
+        "sub_count": "N/A",
+        "episodes": "N/A"
     },
     {
         "title": "Solo Leveling",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/solo-leveling"
+        "url": "https://better-anime.github.io/watch/solo-leveling",
+        "dub_count": "N/A",
+        "sub_count": "N/A",
+        "episodes": "25"
     },
     {
         "title": "Spy X Family",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/spy-x-family"
+        "url": "https://better-anime.github.io/watch/spy-x-family",
+        "dub_count": "37",
+        "sub_count": "37",
+        "episodes": "37"
     },
     {
         "title": "Taboo Tattoo",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYTU0ZjlmZTctYTk2YS00OTUwLTljODAtMGQ1NjA3ODI4YzU5XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/taboo-tattoo"
+        "url": "https://better-anime.github.io/watch/taboo-tattoo",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     },
     {
         "title": "Terror In Resonance",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BOGZmNjNiY2MtNWE0YS00Y2MxLWJlNzEtMjIyMzZjODE5NGMwXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/terror-in-resonance"
+        "url": "https://better-anime.github.io/watch/terror-in-resonance",
+        "dub_count": "11",
+        "sub_count": "11",
+        "episodes": "11"
     },
     {
         "title": "The Elusive Samurai",
-        "description": "",
         "image_url": "https://imgs.search.brave.com/QoHKCmcjoaCTZsKeNxkCtVGMdrIu3E-W8xt0KdWbKxQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlpHRmlORE5r/TUdRdFpUZGxaQzAw/Wm1OakxUa3pOalF0/WmpNMlpEbGxabVJs/TnpjMFhrRXlYa0Zx/Y0djQC5qcGc",
-        "url": "https://better-anime.github.io/watch/the-elusive-samurai"
+        "url": "https://better-anime.github.io/watch/the-elusive-samurai",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     },
     {
         "title": "The Faraway Paladin",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BMWFlODMxNGEtMWU4NS00ZDQyLTk0MzItMWVjZGVjMWEyOWZjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/the-faraway-paladin"
+        "url": "https://better-anime.github.io/watch/the-faraway-paladin",
+        "dub_count": "24",
+        "sub_count": "24",
+        "episodes": "24"
     },
     {
         "title": "The Irregular at Magic High School",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYjBmOWY1ZjQtMTkwMi00MWE4LWE3MmMtOTdmNzA5OTQ5MjFkXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/the-irregular-at-magic-high-school"
+        "url": "https://better-anime.github.io/watch/the-irregular-at-magic-high-school",
+        "dub_count": "39",
+        "sub_count": "39",
+        "episodes": "39"
     },
     {
         "title": "The Reincarnation Of The Strongest Exorcist",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BNDZjNTgyNDktZTJmZi00YzQ3LWJjNGMtOWQ0ODE1OGMwNmMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/trotse"
+        "url": "https://better-anime.github.io/watch/trotse",
+        "dub_count": "13",
+        "sub_count": "13",
+        "episodes": "13"
     },
     {
         "title": "Toradora",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BNjEyZmRmMGYtNGY1Zi00MTFiLWE0ZTMtNzUzMWJmMTgzNWE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/toradora"
+        "url": "https://better-anime.github.io/watch/toradora",
+        "dub_count": "25",
+        "sub_count": "25",
+        "episodes": "25"
     },
     {
         "title": "Vermeil In Gold",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BMDViZTk1ZjctMmIzMC00MTQ2LTkwN2EtMWI3Y2U1NjlmMzVhXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://better-anime.github.io/watch/vermeil-in-gold"
+        "url": "https://better-anime.github.io/watch/vermeil-in-gold",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     },
     {
         "title": "Yamada-Kun And The Seven Witches",
-        "description": "",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYjVhYjhkOGQtNzFkNi00NWY1LTkzOWEtMjdkYzQ2YzA0ZWEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/yamada-kun-and-the-seven-witches"
+        "url": "https://better-anime.github.io/watch/yamada-kun-and-the-seven-witches",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     }
 ]
