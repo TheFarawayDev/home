@@ -168,14 +168,6 @@
         "episodes": "17"
     },
     {
-        "title": "The Seven Deadly Sins",
-        "image_url": "https://m.media-amazon.com/images/M/MV5BODgxZGI4NjQtODViMy00Y2JmLWI1MTktNWExMjlmMmZhMzE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://better-anime.github.io/watch/7-deadly-sins",
-        "dub_count": "100",
-        "sub_count": "100",
-        "episodes": "100"
-    },
-    {
         "title": "Shikimori's Not Just A Cutie",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYzM0MGRlMzEtMWIwNi00ZjAzLWIzODItMDNlNmM0MGU4MTY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "url": "https://better-anime.github.io/watch/shikimoris-not-just-a-cutie",
@@ -273,7 +265,7 @@
     },
     {
         "title": "The Misfit of Demon King Academy",
-        "image_url": "https://imgs.search.brave.com/52zms169MnCZJYylu1cHY_BWHbdgfd9wioV4U3WGipI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50aGVtb3ZpZWRi/Lm9yZy90L3AvdzMw/MF9hbmRfaDQ1MF9i/ZXN0djIvNlZqVWZh/R2t0M0RKUExsTm1u/bTFBTEVoU2Z2Lmpw/Zw",
+        "image_url": "https://imgs.search.brave.com/UIqGxYjx7fXFKqioN4jNT1rOwM7mGAduK8coj3IVmXM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlkyTXpaR1Zo/WlRndE5XWmxZaTAw/TkdJNUxUazVOMlF0/WVRrek16TmtNV00w/TmpCaFhrRXlYa0Zx/Y0djQC5qcGc",
         "url": "https://better-anime.github.io/watch/the-misfits-of-demon-king-academy",
         "dub_count": "37",
         "sub_count": "37",
@@ -286,6 +278,14 @@
         "dub_count": "13",
         "sub_count": "13",
         "episodes": "13"
+    },
+    {
+        "title": "The Seven Deadly Sins",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BODgxZGI4NjQtODViMy00Y2JmLWI1MTktNWExMjlmMmZhMzE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://better-anime.github.io/watch/the-seven-deadly-sins",
+        "dub_count": "100",
+        "sub_count": "100",
+        "episodes": "100"
     },
     {
         "title": "Tomodachi Game",
