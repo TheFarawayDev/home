@@ -86,6 +86,7 @@ main {
     margin-bottom: 1rem;
     font-size: 1.5rem;
     color: var(--bleu-de-france);
+    font-weight: bold;
 }
 
 .anime-list {
@@ -148,6 +149,7 @@ main {
 .carousel h2 {
     color: var(--bleu-de-france);
     font-size: 1.5rem;
+    font-weight: bold;
 }
 
 /* Footer Styles */
@@ -205,4 +207,29 @@ footer {
     .search-bar button {
         width: 30%;
     }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --cadet-gray: #5A6B7D;
+        --bleu-de-france: #3777d1;
+        --charcoal: #27415c;
+        --white: #e0e0e0;
+        --steel-blue: #2B4A7D;
+        --light-gray: #1a1a1a;
+    }
+    hr {
+        border: 1px solid var(--white);
+    }
+    .anime-item {
+        background-color: #29292a;  /* Dark background */
+        color: #ffffff;  /* White text */
+    }
+    .anime-item p {
+        color: #717171;  /* White text */
+    }
+    body {
+        color: #ffffff;
+    }
+
 }
