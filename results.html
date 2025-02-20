@@ -9,6 +9,15 @@
     <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/thefarawaydev/Watch/refs/heads/main/BA.png">
     <style>
         /* Anime List Styles */
+        :root {
+            --cadet-gray: #8FA3BB;
+            --bleu-de-france: #4A88D7;
+            --charcoal: #3A4F63;
+            --white: #ffffff;
+            --steel-blue: #4B7DB9;
+            --light-gray: #f0f0f0;
+        }
+
         .anime-list {
             display: flex;
             flex-wrap: wrap;
@@ -126,6 +135,35 @@
             width: 100%;
             bottom: 0;
         }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --cadet-gray: #5A6B7D;
+                --bleu-de-france: #3777d1;
+                --charcoal: #27415c;
+                --white: #e0e0e0;
+                --steel-blue: #2B4A7D;
+                --light-gray: #1a1a1a;
+            }
+            hr {
+                border: 1px solid var(--white);
+            }
+            .anime-info {
+                background-color: #29292a;  /* Dark background */
+                color: #ffffff;  /* White text */
+            }
+            .anime-info p {
+                color: #717171;  /* White text */
+            }
+            body {
+                color: #ffffff;
+                background-color: var(--charcoal);
+            }
+            header {
+                background-color: var(--bleu-de-france);
+            }
+
+        }
     </style>
 </head>
 <body>
@@ -151,7 +189,7 @@
                 const resultsContainer = document.getElementById('results');
                 const resultsArray = Array.isArray(data) ? data : [];
                 const params = new URLSearchParams(window.location.search);
-                const query = params.get('query');
+                const query = 's';
 
                 if (query) {
                     document.title = `Results for "${query}"`;
