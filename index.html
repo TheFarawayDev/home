@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="https://thefarawaydev.github.io/home/authmodel.css">
     <link rel="stylesheet" href="https://thefarawaydev.github.io/home/index.css">
     <link rel="icon" type="image/x-icon" href="https://raw.githubusercontent.com/thefarawaydev/Watch/refs/heads/main/BA.png">
+    <link rel="manifest" href="/manifest.json">
 </head>
 <body>
     <!--<div id="authModal">
@@ -178,4 +179,19 @@
             }
         });
     </script>
+
+    <script>
+        if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('/service-worker.js')
+            .then(registration => {
+                console.log('ServiceWorker registration successful with scope: ', registration.scope);
+            })
+            .catch(error => {
+                console.log('ServiceWorker registration failed: ', error);
+            });
+        });
+        }
+    </script>
+  
         
