@@ -202,9 +202,11 @@
         });
     }
 
-    fetch('https://raw.githubusercontent.com/thefarawaydev/home/main/anime-search-results.json')
+    const jsonUrl = 'https://raw.githubusercontent.com/thefarawaydev/home/main/anime-search-results.json';
+    fetch(`${jsonUrl}?t=${new Date().getTime()}`)
       .then(response => response.json())
       .then(data => {
+        console.log("Fetched Data:", data);
         const resultsContainer = document.getElementById("results");
         const resultsArray = Array.isArray(data) ? data : [];
         const params = new URLSearchParams(window.location.search);
@@ -215,13 +217,11 @@
           const filteredResults = resultsArray.filter(result =>
             result.title.toLowerCase().includes(query.toLowerCase())
           );
-
+          console.log("Filtered Results:", filteredResults);
           if (filteredResults.length > 0) {
             filteredResults.forEach(result => {
               const resultItem = document.createElement("div");
               resultItem.classList.add("anime-item");
-
-              // Create the static part of the content
               resultItem.innerHTML = `
                 <img src="${result.image_url}" alt="${result.title}">
                 <div class="anime-info">
@@ -235,7 +235,6 @@
                 </div>
               `;
 
-              // Create the link element that forces same-tab navigation
               const link = document.createElement("a");
               link.href = result.url;
               link.textContent = "Watch Now";
@@ -244,8 +243,6 @@
                 window.open(result.url, "_self");
               });
 
-              
-              // Append the link to the anime-info div
               const animeInfoDiv = resultItem.querySelector(".anime-info");
               animeInfoDiv.appendChild(link);
 
