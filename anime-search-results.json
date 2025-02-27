@@ -168,60 +168,12 @@
         "episodes": "22"
     },
     {
-        "title": "Reincarnated As Seventh Prince Perfecting Magic",
-        "image_url": "https://imgs.search.brave.com/ALBCn886DMUNDjrdhMgyEBmeWEKOwKegYdEtQqCWBEQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuYW5pbWVjb3Ju/ZXIubWUvMjAyNC8w/Ni8xNzE4NjQ0MTA5/LTJiYjE3NTg2ZDRh/MTdjY2EwNDVkOTBk/YWZjMjBlOGJmLndl/YnA",
-        "url": "https://thefarawaydev.github.io/watch/reincarnated-as-seventh-prince-perfecting-magic",
-        "dub_count": "12",
-        "sub_count": "12",
-        "episodes": "12"
-    },
-    {
         "title": "Jujutsu Kaisen",
         "image_url": "https://m.media-amazon.com/images/M/MV5BNmI1MmYxNWQtY2E5NC00ZTlmLWIzZGEtNzM1YmE3NDA5NzhjXkEyXkFqcGc@._V1_.jpg",
         "url": "https://thefarawaydev.github.io/watch/jujutsu-kaisen",
         "dub_count": "47",
         "sub_count": "47",
         "episodes": "47"
-    },
-    {
-        "title": "Medaka Kuroiwa is Impervious to My Charms",
-        "image_url": "https://m.media-amazon.com/images/M/MV5BNzIxMjFmMDYtYWU4ZC00MTUzLWJhYzUtNjE4YzYyOTAyYzllXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/medaka-kuroiwa-is-impervious-to-my-charms",
-        "dub_count": "N/A",
-        "sub_count": "N/A",
-        "episodes": "12"
-    },
-    {
-        "title": "My Star",
-        "image_url": "https://m.media-amazon.com/images/M/MV5BYzM3ZGJkN2YtOTQ5Ny00MzEyLTlkMzQtZDVhYzM3YWFlM2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/my-star",
-        "dub_count": "24",
-        "sub_count": "24",
-        "episodes": "24"
-    },
-    {
-        "title": "ReLIFE",
-        "image_url": "https://m.media-amazon.com/images/M/MV5BOGViMzRkYzctM2IyNi00OWFmLTliMDMtNjk1MmE0M2QyM2I1XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/relife",
-        "dub_count": "17",
-        "sub_count": "17",
-        "episodes": "17"
-    },
-    {
-        "title": "Shikimori's Not Just A Cutie",
-        "image_url": "https://m.media-amazon.com/images/M/MV5BYzM0MGRlMzEtMWIwNi00ZjAzLWIzODItMDNlNmM0MGU4MTY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/shikimoris-not-just-a-cutie",
-        "dub_count": "12",
-        "sub_count": "12",
-        "episodes": "12"
-    },
-    {
-        "title": "Sakamoto Days",
-        "image_url": "https://m.media-amazon.com/images/M/MV5BM2MwZDRmYWItNGIzZC00ZWExLWEwNWYtNmM1ZmU3OTA3NmY4XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/sakamoto-days",
-        "dub_count": "N/A",
-        "sub_count": "N/A",
-        "episodes": "N/A"
     },
     {
         "title": "Magi: Adventure Of Sinbad",
@@ -232,6 +184,14 @@
         "episodes": "13"
     },
     {
+        "title": "Medaka Kuroiwa is Impervious to My Charms",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNzIxMjFmMDYtYWU4ZC00MTUzLWJhYzUtNjE4YzYyOTAyYzllXkEyXkFqcGc@._V1_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/medaka-kuroiwa-is-impervious-to-my-charms",
+        "dub_count": "N/A",
+        "sub_count": "N/A",
+        "episodes": "12"
+    },
+    {
         "title": "My Hero Academia",
         "image_url": "https://imgs.search.brave.com/b5Yerh5NeuL9wd5zUK78kc4s_NbUn9cORD3HLijczMA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlltSTVPR1Ux/T1RZdE9Ea3paUzAw/WXpBNUxUbG1ZbUV0/TURRMU5qYzNPR1Jo/TVdaalhrRXlYa0Zx/Y0djQC5qcGc",
         "url": "https://thefarawaydev.github.io/watch/my-hero-academia",
@@ -240,12 +200,28 @@
         "episodes": "159"
     },
     {
+        "title": "My Star",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYzM3ZGJkN2YtOTQ5Ny00MzEyLTlkMzQtZDVhYzM3YWFlM2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/my-star",
+        "dub_count": "24",
+        "sub_count": "24",
+        "episodes": "24"
+    },
+    {
         "title": "No Longer Allowed In Another World",
         "image_url": "https://imgs.search.brave.com/IB-M50naJ_HjCbYWD80aRtHp5jK36o326SXfw32Aa08/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1XTXdOekV5/WVRrdE56a3hZaTAw/TmpBeExUZ3dZMlF0/TkRZME9HSXhOREkz/TW1WbFhrRXlYa0Zx/Y0djQC5qcGc",
         "url": "https://thefarawaydev.github.io/watch/no-longer-allowed-in-another-world",
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
+    },
+    {
+        "title": "One Punch Man",
+        "image_url": "https://imgs.search.brave.com/xYB7_3LR4b3pGBsR2SjJt9xiGCbj_K0sIKZciPlasYE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLmdhbWVyYW50/aW1hZ2VzLmNvbS93/b3JkcHJlc3Mvd3At/Y29udGVudC91cGxv/YWRzLzIwMjMvMDkv/dGVtcGxhdGUtMi5q/cGc",
+        "url": "https://thefarawaydev.github.io/watch/one-punch-man",
+        "dub_count": "24",
+        "sub_count": "24",
+        "episodes": "24"
     },
     {
         "title": "Overlord",
@@ -262,6 +238,38 @@
         "dub_count": "24",
         "sub_count": "24",
         "episodes": "24"
+    },
+    {
+        "title": "Reincarnated As Seventh Prince Perfecting Magic",
+        "image_url": "https://imgs.search.brave.com/ALBCn886DMUNDjrdhMgyEBmeWEKOwKegYdEtQqCWBEQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuYW5pbWVjb3Ju/ZXIubWUvMjAyNC8w/Ni8xNzE4NjQ0MTA5/LTJiYjE3NTg2ZDRh/MTdjY2EwNDVkOTBk/YWZjMjBlOGJmLndl/YnA",
+        "url": "https://thefarawaydev.github.io/watch/reincarnated-as-seventh-prince-perfecting-magic",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
+    },
+    {
+        "title": "ReLIFE",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOGViMzRkYzctM2IyNi00OWFmLTliMDMtNjk1MmE0M2QyM2I1XkEyXkFqcGc@._V1_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/relife",
+        "dub_count": "17",
+        "sub_count": "17",
+        "episodes": "17"
+    },
+    {
+        "title": "Sakamoto Days",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BM2MwZDRmYWItNGIzZC00ZWExLWEwNWYtNmM1ZmU3OTA3NmY4XkEyXkFqcGc@._V1_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/sakamoto-days",
+        "dub_count": "N/A",
+        "sub_count": "N/A",
+        "episodes": "N/A"
+    },
+    {
+        "title": "Shikimori's Not Just A Cutie",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYzM0MGRlMzEtMWIwNi00ZjAzLWIzODItMDNlNmM0MGU4MTY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/shikimoris-not-just-a-cutie",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     },
     {
         "title": "Solo Leveling",
