@@ -56,6 +56,14 @@
         "episodes": "12"
     },
     {
+        "title": "Cowboy Bebop",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTU3ZTdiOGQtYmYwYy00OGM5LThmNjMtZGJmNTVlZjk1ZmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/cowboy-bebop",
+        "dub_count": "26",
+        "sub_count": "26",
+        "episodes": "26"
+    },
+    {
         "title": "Cyberpunk 2077: Edgerunners",
         "image_url": "https://m.media-amazon.com/images/M/MV5BM2JkMzM2ZmYtNWU4MS00MjZhLWFhZWUtYWFjYTJkN2RhZDliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "url": "https://thefarawaydev.github.io/watch/cyberpunk-2077-edgerunners",
@@ -350,6 +358,14 @@
         "dub_count": "39",
         "sub_count": "39",
         "episodes": "39"
+    },
+    {
+        "title": "The Legend of The Legendary Heroes",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZTZmYjVjOWEtMzBlMS00MDI3LWIxOTUtNmU2OGZiYmI4MmMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/the-legend-of-the-legendary-heroes",
+        "dub_count": "24",
+        "sub_count": "24",
+        "episodes": "24"
     },
     {
         "title": "The Misfit of Demon King Academy",
