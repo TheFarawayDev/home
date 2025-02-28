@@ -16,6 +16,8 @@
       --white: #ffffff;
       --steel-blue: #4b7db9;
       --light-gray: #f0f0f0;
+      --light-green: #3f8394;
+      --light-red: #d05656;
     }
 
     .anime-list {
@@ -103,6 +105,18 @@
       margin: 0;
     }
 
+    .tick-item.tick-sub {
+      background-color: var(--light-green);
+    }
+
+    .tick-item.tick-dub {
+      background-color: var(--light-red);
+    }
+
+    .tick-item.tick-eps {
+      background-color: var(--cadet-gray);
+    }
+
     @media (max-width: 768px) {
       .anime-item {
         width: calc(50% - 1rem);
@@ -151,6 +165,8 @@
         --white: #e0e0e0;
         --steel-blue: #2b4a7d;
         --light-gray: #1a1a1a;
+        --light-green: #2a5c66;
+        --light-red: #a04040;
       }
       hr {
         border: 1px solid var(--white);
@@ -210,7 +226,7 @@
         const resultsContainer = document.getElementById("results");
         const resultsArray = Array.isArray(data) ? data : [];
         const params = new URLSearchParams(window.location.search);
-        const query = params.get("query");
+        const query = "r";
 
         if (query) {
           document.title = `Results for "${query}"`;
