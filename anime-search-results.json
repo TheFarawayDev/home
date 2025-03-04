@@ -90,7 +90,7 @@
     {
         "title": "Demon King Daimao",
         "image_url": "https://imgs.search.brave.com/1e6sjgGyMkGUShiNlXDLFgxU1ba2toJoWgX-SrZ9x0k/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk0yUXdNVE5s/WkRjdFpXVXlaQzAw/TVRObExXSXlObVF0/T1RWaU1EUTJZVFU0/TjJOa1hrRXlYa0Zx/Y0djQC5qcGc",
-        "url": "https://thefarawaydev.github.io/watch/demon-king-daimao",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=demon_king_daimao",
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
@@ -98,7 +98,7 @@
     {
         "title": "Demon Slayer",
         "image_url": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=contain,format=auto,quality=85,width=480,height=720/catalog/crunchyroll/765ee047befcfb677d169f5de4c82d5c.jpg",
-        "url": "https://thefarawaydev.github.io/watch/demon-slayer",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=demon_slayer",
         "dub_count": "63",
         "sub_count": "63",
         "episodes": "63"
@@ -114,7 +114,7 @@
     {
         "title": "Dr. Stone",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYzZkYjM1MWMtNTY3Mi00MTMzLTlhNmQtN2ExZjFkYzdjZmFjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/dr-stone",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=dr_stone",
         "dub_count": "57",
         "sub_count": "57",
         "episodes": "57"
@@ -122,7 +122,7 @@
     {
         "title": "Erased",
         "image_url": "https://m.media-amazon.com/images/M/MV5BZWQ2YmI5NWMtZTY2Mi00MGUxLWFhMmEtYjVjZjMwOTNkOThjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/erased",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=erased",
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
@@ -130,7 +130,7 @@
     {
         "title": "Farming Life In Another World",
         "image_url": "https://imgs.search.brave.com/LYAnJ8hPIhPjbrCY5TrhUr_1AwPr8OTMD19JaKfUbg8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzcxRlNxS244US1M/LmpwZw",
-        "url": "https://thefarawaydev.github.io/watch/farming-life-in-another-world",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=farming_life_in_another_world",
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
@@ -138,7 +138,7 @@
     {
         "title": "Fire Force",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYjcxOWYyZDEtOTRlMy00MmQzLWEzMDgtYjgxYTliMWM5MjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/fire-force",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=fire_force",
         "dub_count": "48",
         "sub_count": "48",
         "episodes": "48"
