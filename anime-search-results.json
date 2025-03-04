@@ -26,7 +26,7 @@
     {
         "title": "Berserk Of Gluttony",
         "image_url": "https://m.media-amazon.com/images/M/MV5BNGI3NTg0YjEtZmVjZS00OWZjLTg1OTUtYjJmMmJlMTNhZWE3XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/berserk-of-gluttony",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=berserk_of_gluttony",
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
@@ -178,7 +178,7 @@
     {
         "title": "Jujutsu Kaisen",
         "image_url": "https://m.media-amazon.com/images/M/MV5BNmI1MmYxNWQtY2E5NC00ZTlmLWIzZGEtNzM1YmE3NDA5NzhjXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/jujutsu-kaisen",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=jujutsu_kaisen",
         "dub_count": "47",
         "sub_count": "47",
         "episodes": "47"
