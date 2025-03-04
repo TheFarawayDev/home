@@ -50,7 +50,7 @@
     {
         "title": "Chainsaw Man",
         "image_url": "https://m.media-amazon.com/images/M/MV5BZGY2ZTM2MWMtNzA2OS00ZjJlLWIwZTMtMDBhN2EwYjZjZjEyXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/chainsaw-man",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=chainsaw_man",
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
@@ -58,7 +58,7 @@
     {
         "title": "Cowboy Bebop",
         "image_url": "https://m.media-amazon.com/images/M/MV5BMTU3ZTdiOGQtYmYwYy00OGM5LThmNjMtZGJmNTVlZjk1ZmEyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/cowboy-bebop",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=cowboy_bebop",
         "dub_count": "26",
         "sub_count": "26",
         "episodes": "26"
@@ -66,7 +66,7 @@
     {
         "title": "Cyberpunk 2077: Edgerunners",
         "image_url": "https://m.media-amazon.com/images/M/MV5BM2JkMzM2ZmYtNWU4MS00MjZhLWFhZWUtYWFjYTJkN2RhZDliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/cyberpunk-2077-edgerunners",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=cyberpunk_2077_edgerunners",
         "dub_count": "10",
         "sub_count": "10",
         "episodes": "10"
@@ -106,7 +106,7 @@
     {
         "title": "D-Frag!",
         "image_url": "https://m.media-amazon.com/images/M/MV5BOTg5YzgzNDItMDM2Yy00OGIxLWJmNzItZGU2MDVkMDZhNTk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/d-frag",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=d-frag!",
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
