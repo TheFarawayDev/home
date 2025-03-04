@@ -74,7 +74,7 @@
     {
         "title": "Dandadan",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYWFhOWMxNTYtZThiMi00ZmQ5LTlmODktN2QwNzUyZjMyZGQzXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/dandadan",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=dandadan",
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
@@ -82,7 +82,7 @@
     {
         "title": "Death Note",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYTgyZDhmMTEtZDFhNi00MTc4LTg3NjUtYWJlNGE5Mzk2NzMxXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/death-note",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=death_note",
         "dub_count": "37",
         "sub_count": "37",
         "episodes": "37"
