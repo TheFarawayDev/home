@@ -5,7 +5,7 @@ let ASSETS_TO_CACHE = [
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js',
   'https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap',
   'https://thefarawaydev.github.io/home/index.css',
-  'https://raw.githubusercontent.com/thefarawaydev/Watch/refs/heads/main/BA.png',
+  'https://raw.githubusercontent.com/thefarawaydev/Watch/refs/heads/main/other/BA.png',
   'https://thefarawaydev.github.io/home/poster.png',
   'https://thefarawaydev.github.io/home/manifest.json',
   './anime-search-results.json',

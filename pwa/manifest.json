@@ -8,12 +8,12 @@
     "description": "A modern anime web app featuring curated anime recommendations and upcoming releases.",
     "icons": [
         {
-            "src": "https://raw.githubusercontent.com/thefarawaydev/Watch/refs/heads/main/BA.png",
+            "src": "https://raw.githubusercontent.com/thefarawaydev/Watch/refs/heads/main/other/BA.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "https://raw.githubusercontent.com/thefarawaydev/Watch/refs/heads/main/BA.png",
+            "src": "https://raw.githubusercontent.com/thefarawaydev/Watch/refs/heads/main/otherBA.png",
             "sizes": "512x512",
             "type": "image/png"
         }

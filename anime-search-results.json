@@ -202,7 +202,7 @@
     {
         "title": "My Hero Academia",
         "image_url": "https://imgs.search.brave.com/b5Yerh5NeuL9wd5zUK78kc4s_NbUn9cORD3HLijczMA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlltSTVPR1Ux/T1RZdE9Ea3paUzAw/WXpBNUxUbG1ZbUV0/TURRMU5qYzNPR1Jo/TVdaalhrRXlYa0Zx/Y0djQC5qcGc",
-        "url": "https://thefarawaydev.github.io/watch/my-hero-academia",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=my_hero_academia",
         "dub_count": "159",
         "sub_count": "159",
         "episodes": "159"
@@ -210,7 +210,7 @@
     {
         "title": "My Star",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYzM3ZGJkN2YtOTQ5Ny00MzEyLTlkMzQtZDVhYzM3YWFlM2QwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/my-star",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=my_star",
         "dub_count": "24",
         "sub_count": "24",
         "episodes": "24"
@@ -218,7 +218,7 @@
     {
         "title": "No Longer Allowed In Another World",
         "image_url": "https://imgs.search.brave.com/IB-M50naJ_HjCbYWD80aRtHp5jK36o326SXfw32Aa08/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1XTXdOekV5/WVRrdE56a3hZaTAw/TmpBeExUZ3dZMlF0/TkRZME9HSXhOREkz/TW1WbFhrRXlYa0Zx/Y0djQC5qcGc",
-        "url": "https://thefarawaydev.github.io/watch/no-longer-allowed-in-another-world",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=no_longer_allowed_in_another_world",
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
@@ -226,7 +226,7 @@
     {
         "title": "One Punch Man",
         "image_url": "https://imgs.search.brave.com/xYB7_3LR4b3pGBsR2SjJt9xiGCbj_K0sIKZciPlasYE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMwLmdhbWVyYW50/aW1hZ2VzLmNvbS93/b3JkcHJlc3Mvd3At/Y29udGVudC91cGxv/YWRzLzIwMjMvMDkv/dGVtcGxhdGUtMi5q/cGc",
-        "url": "https://thefarawaydev.github.io/watch/one-punch-man",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=one_punch_man",
         "dub_count": "24",
         "sub_count": "24",
         "episodes": "24"
@@ -234,7 +234,7 @@
     {
         "title": "Overlord",
         "image_url": "https://imgs.search.brave.com/RPHNqOW2ALmyZzIhOUDXa5nyI0vP0KATrIb9nMVsAIY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QllqTmpOREJt/WmpBdE1HWmlNUzAw/T0RCa0xXRmpZV0l0/WldRMVpqRXdPR05t/WkRCalhrRXlYa0Zx/Y0djQC5qcGc",
-        "url": "https://thefarawaydev.github.io/watch/overlord",
+        "url": "https://thefarawaydev.github.io/watch/series/?series=overlord",
         "dub_count": "52",
         "sub_count": "52",
         "episodes": "52"
@@ -242,7 +242,7 @@
     {
         "title": "Ragna Crimson",
         "image_url": "https://imgs.search.brave.com/pTvypR6ezmWUYiGRPsvAuztX6dHOHfBNaszPdGfNiXU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk1HVmhaVEkz/TnpBdFpUTmhOeTAw/Wm1GaExUZ3dOVFl0/WWpFME9HUXpNemN6/WmpVeFhrRXlYa0Zx/Y0djQC5qcGc",
-        "url": "https://thefarawaydev.github.io/watch/ragna-crimson",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=ragna_crimson",
         "dub_count": "24",
         "sub_count": "24",
         "episodes": "24"
@@ -250,7 +250,7 @@
     {
         "title": "Reincarnated As Seventh Prince Perfecting Magic",
         "image_url": "https://imgs.search.brave.com/ALBCn886DMUNDjrdhMgyEBmeWEKOwKegYdEtQqCWBEQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuYW5pbWVjb3Ju/ZXIubWUvMjAyNC8w/Ni8xNzE4NjQ0MTA5/LTJiYjE3NTg2ZDRh/MTdjY2EwNDVkOTBk/YWZjMjBlOGJmLndl/YnA",
-        "url": "https://thefarawaydev.github.io/watch/reincarnated-as-seventh-prince-perfecting-magic",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=reincarnated_as_seventh_prince_perfecting_magic",
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
@@ -258,7 +258,7 @@
     {
         "title": "ReLIFE",
         "image_url": "https://m.media-amazon.com/images/M/MV5BOGViMzRkYzctM2IyNi00OWFmLTliMDMtNjk1MmE0M2QyM2I1XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/relife",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=relife",
         "dub_count": "17",
         "sub_count": "17",
         "episodes": "17"
@@ -266,7 +266,7 @@
     {
         "title": "Sakamoto Days",
         "image_url": "https://m.media-amazon.com/images/M/MV5BM2MwZDRmYWItNGIzZC00ZWExLWEwNWYtNmM1ZmU3OTA3NmY4XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/sakamoto-days",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=sakamoto_days",
         "dub_count": "N/A",
         "sub_count": "N/A",
         "episodes": "11"
@@ -274,7 +274,7 @@
     {
         "title": "Shikimori's Not Just A Cutie",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYzM0MGRlMzEtMWIwNi00ZjAzLWIzODItMDNlNmM0MGU4MTY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/shikimoris-not-just-a-cutie",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=shikimoris_not_just_a_cutie",
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
@@ -282,7 +282,7 @@
     {
         "title": "Solo Leveling",
         "image_url": "https://m.media-amazon.com/images/M/MV5BM2M4YzdkMTEtMjUyYy00ZWY0LWI5ODQtNGRkZWQ1MzU5MWM2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/solo-leveling",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=solo_leveling",
         "dub_count": "N/A",
         "sub_count": "N/A",
         "episodes": "25"
@@ -290,7 +290,7 @@
     {
         "title": "Spy X Family",
         "image_url": "https://m.media-amazon.com/images/M/MV5BZDkwNjc0NWEtNzJlOC00N2YwLTk4MjktZGFlZDE2Y2QzOWI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/spy-x-family",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=spy_x-family",
         "dub_count": "37",
         "sub_count": "37",
         "episodes": "37"
@@ -298,7 +298,7 @@
     {
         "title": "Sword Art Online",
         "image_url": "https://imgs.search.brave.com/qCoFty7skKlcDXWioMCSlpy41bl1GBczuzY_ntBE-vI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk4yTmhZelUy/TkRFdFl6STFOUzAw/TWpnekxUaGpaR1V0/T1RZeE5HSmtaalpt/TkRkalhrRXlYa0Zx/Y0djQC5qcGc",
-        "url": "https:thefarawaydev.github.io/watch/sword-art-online",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=sword_art_online",
         "dub_count": "96",
         "sub_count": "96",
         "episodes": "96"
@@ -314,7 +314,7 @@
     {
         "title": "Talentless Nana",
         "image_url": "https://imgs.search.brave.com/52SZUOK_GTGksiiXFcBursXvgBM1XIypmUwEY3mmoFc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1QlltVXdOVFV5/WVdNdFkyVTJZeTAw/WTJZMUxXRm1abU10/WlRObE5tVTNObVkz/TjJGaFhrRXlYa0Zx/Y0djQC5qcGc",
-        "url": "https://thefarawaydev.github.io/watch/talentless-nana",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=talentless_nana",
         "dub_count": "13",
         "sub_count": "13",
         "episodes": "13"
@@ -322,7 +322,7 @@
     {
         "title": "Terror In Resonance",
         "image_url": "https://m.media-amazon.com/images/M/MV5BOGZmNjNiY2MtNWE0YS00Y2MxLWJlNzEtMjIyMzZjODE5NGMwXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/terror-in-resonance",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=terror_in_resonance",
         "dub_count": "11",
         "sub_count": "11",
         "episodes": "11"
@@ -330,7 +330,7 @@
     {
         "title": "The Apothecary Diaries",
         "image_url": "https://imgs.search.brave.com/0EfuKvw42saobKTX8qpyJnwvYpxqjQsD_Ee28K6LoYo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5qQXhNbUZq/WmpndFlqTTFaUzAw/TnpkbUxUbGlaRGt0/Wm1JeU16VTVZVEJs/TkRCbVhrRXlYa0Zx/Y0djQC5qcGc",
-        "url": "https://thefarawaydev.github.io/watch/the-apothecary-diaries",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=the_apothecary_diaries",
         "dub_count": "24",
         "sub_count": "24",
         "episodes": "24"
@@ -410,7 +410,7 @@
     {
         "title": "Tomodachi Game",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYjM1Yjk4NjYtM2I2Yi00MDFmLThmNGMtNTI2ZWYzOTM3MWFjXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/friends-game",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=tomodachi_game",
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
