@@ -1,7 +1,7 @@
 [
     {
         "title": "Akashic Records Of Bastard Magic Instructor",
-        "image_url": "",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BODgwMGJkZWEtNzFjMS00OTlkLTg0MjMtMTY5NmFjZmUwMjJjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "url": "https://thefarawaydev.github.io/watch/series/player?series=akashic_records_of_bastard_magic_instructor",
         "dub_count": "12",
         "sub_count": "12",
@@ -182,6 +182,14 @@
         "dub_count": "22",
         "sub_count": "22",
         "episodes": "22"
+    },
+    {
+        "title": "In Another World With My Smartphone",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYTMxNDIzYzEtNjA2My00ZGM3LWI3NGEtNmVhODg0YmU3NDBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=in_another_world_with_my_smartphone",
+        "dub_count": "24",
+        "sub_count": "24",
+        "episodes": "24"
     },
     {
         "title": "Jujutsu Kaisen",
