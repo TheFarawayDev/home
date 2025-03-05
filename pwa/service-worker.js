@@ -1,13 +1,14 @@
 const CACHE_NAME = 'ba-cache-v2';
 let ASSETS_TO_CACHE = [
-  'index.html',
-  'index.css',
+  '/index.html',
+  '/index.css',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js',
   'https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap',
   'https://thefarawaydev.github.io/home/index.css',
   'https://raw.githubusercontent.com/thefarawaydev/Watch/refs/heads/main/BA.png',
-  'https://thefarawaydev.github.io/home/poster.png'
+  'https://thefarawaydev.github.io/home/poster.png',
+  '/results'
 ];
 
 // Install event - caching assets
