@@ -9,7 +9,8 @@ let ASSETS_TO_CACHE = [
   'https://thefarawaydev.github.io/home/poster.png',
   'https://thefarawaydev.github.io/home/manifest.json',
   './anime-search-results.json',
-  './results'
+  './results',
+  'https://thefarawaydev.github.io/watch/series/player'
 ];
 
 // Install event - caching assets
