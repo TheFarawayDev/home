@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ba-cache-v1';
+const CACHE_NAME = 'ba-cache-v2';
 let ASSETS_TO_CACHE = [
   'index.html',
   'index.css',
