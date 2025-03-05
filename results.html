@@ -256,7 +256,7 @@
               link.textContent = "Watch Now";
               link.addEventListener("click", function(event) {
                 event.preventDefault();
-                window.open(result.url, "_self");
+                window.open(result.url, "_blank");
               });
 
               const animeInfoDiv = resultItem.querySelector(".anime-info");
