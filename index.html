@@ -51,20 +51,20 @@
     }
 
     /* Search Bar Styles */
-    .search-bar {
+    .search {
         display: flex;
         margin-top: 1rem;
         width: 98.8%;
     }
 
-    .search-bar input {
+    .search input {
         padding: 0.5rem;
         border: 1px solid var(--steel-blue);
         border-radius: 4px;
         outline: none;
     }
 
-    .search-bar button {
+    .search button {
         padding: 0.5rem 1rem;
         border: none;
         background-color: var(--steel-blue);
@@ -76,7 +76,7 @@
         width: 30%;
     }
 
-    .search-bar button:hover {
+    .search button:hover {
         background-color: var(--bleu-de-france);
     }
 
@@ -175,16 +175,16 @@
             width: calc(50% - 1rem);
         }
 
-        .search-bar {
+        .search {
             width: 98.8%;
             justify-content: center;
         }
 
-        .search-bar input {
+        .search input {
             width: 70%;
         }
 
-        .search-bar button {
+        .search button {
             width: 30%;
         }
     }
@@ -194,16 +194,16 @@
             width: 100%;
         }
 
-        .search-bar {
+        .search {
             width: 98.8%;
             justify-content: flex-start;
         }
 
-        .search-bar input {
+        .search input {
             width: 70%;
         }
 
-        .search-bar button {
+        .search button {
             width: 30%;
         }
     }
@@ -238,9 +238,9 @@
         <section class="cover-image">
             <img src="https://thefarawaydev.github.io/home/poster.png" alt="Poster Image" style="width: 98.8%;" >
         </section>
-        <div class="search-bar d-flex">
-            <input type="text" id="search-input" class="form-control me-2" placeholder="Search...">
-            <button id="search-button" class="btn btn-primary">Search</button>
+        <div class="search d-flex">
+            <input type="text" id="search-in" class="form-control me-2" placeholder="Search...">
+            <button id="search-btn" class="btn btn-primary">Search</button>
         </div>
         <hr style="width: 98.8%;">
         <section class="featured-section">
@@ -378,8 +378,8 @@
     </script> 
 
     <script>
-        document.getElementById("search-button").addEventListener("click", function () {
-            const query = document.getElementById("search-input").value.trim();
+        document.getElementById("search-butn").addEventListener("click", function () {
+            const query = document.getElementById("search-in").value.trim();
             if (query) {
                 const url = `results.html?query=${encodeURIComponent(query)}`;
                 window.location.href = url;
