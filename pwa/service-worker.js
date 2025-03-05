@@ -1,14 +1,15 @@
 const CACHE_NAME = 'ba-cache-v3';
 let ASSETS_TO_CACHE = [
-  '/index.html',
-  '/index.css',
+  './index.html',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js',
   'https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap',
   'https://thefarawaydev.github.io/home/index.css',
   'https://raw.githubusercontent.com/thefarawaydev/Watch/refs/heads/main/BA.png',
   'https://thefarawaydev.github.io/home/poster.png',
-  '/results'
+  'https://thefarawaydev.github.io/home/manifest.json',
+  './anime-search-results.json',
+  './results'
 ];
 
 // Install event - caching assets
@@ -58,7 +59,7 @@ self.addEventListener('fetch', event => {
       }).catch(() => {
         // Fallback response if both cache & network fail
         if (event.request.headers.get('accept').includes('text/html')) {
-          return caches.match('index.html'); // Serve a fallback HTML page
+          return caches.match('./index.html'); // Serve a fallback HTML page
         }
       });
     })
