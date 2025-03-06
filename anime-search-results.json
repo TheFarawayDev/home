@@ -58,14 +58,14 @@
     {
         "title": "Bleach",
         "image_url": "https://m.media-amazon.com/images/M/MV5BOWQwOWY5NTUtMjAyZi00YjQzLTkwODgtNmQwZjU1MGIzZDhjXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://thefarawaydev.github.io/watch/anime-not-ready",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=bleach",
         "dub_count": "366",
         "sub_count": "366",
         "episodes": "366"
     },
     {
         "title": "Bleach: Thousand-Year Blood War",
-        "image_url": "",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMDYyZDEzNzktNDVhNS00MjJiLWJlZjgtY2IzZDY0OTNjMDU3XkEyXkFqcGc@._V1_.jpg",
         "url": "https://thefarawaydev.github.io/watch/series/player?series=bleach_thousand_year_blood_war",
         "dub_count": "40",
         "sub_count": "40",
