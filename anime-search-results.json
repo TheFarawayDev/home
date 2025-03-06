@@ -519,5 +519,13 @@
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
+    },
+    {
+        "title": "Your Name",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNmEyZjI0M2MtNGFkOC00YTRlLWI0MGQtYTgyODY2MGRhMjc4XkEyXkFqcGc@._V1_QL75_UX154_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=your_name",
+        "dub_count": "1",
+        "sub_count": "1",
+        "episodes": "1"
     }
 ]
