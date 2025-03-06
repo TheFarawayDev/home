@@ -456,6 +456,22 @@
         "episodes": "12"
     },
     {
+        "title": "Tonikawa: High School Days",
+        "image_url": "https://i.redd.it/rz16237w9y5b1.jpg",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=tonikawa_high_school_days",
+        "dub_count": "25",
+        "sub_count": "25",
+        "episodes": "25"
+    },
+    {
+        "title": "Tonikawa: Over The Moon For You",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BY2U0ZjE1ZGYtMmI0Mi00MGI5LTk2Y2YtNWNjNmQ1NWFiY2Y5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=tonikawa_over_the_moon_for_you",
+        "dub_count": "25",
+        "sub_count": "25",
+        "episodes": "25"
+    },
+    {
         "title": "Toradora",
         "image_url": "https://m.media-amazon.com/images/M/MV5BNjEyZmRmMGYtNGY1Zi00MTFiLWE0ZTMtNzUzMWJmMTgzNWE5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "url": "https://thefarawaydev.github.io/watch/series/player?series=toradora",
