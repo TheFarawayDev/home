@@ -24,6 +24,14 @@
         "episodes": "13"
     },
     {
+        "title": "Arifureta",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMTBmMGI0ZDMtMDA3Zi00OTFiLTk4YTktNzAzZjAzNjJjMWVkXkEyXkFqcGc@._V1_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=arifureta",
+        "dub_count": "42",
+        "sub_count": "42",
+        "episodes": "42"
+    },
+    {
         "title": "A Silent Voice",
         "image_url": "https://m.media-amazon.com/images/M/MV5BOTFiNzRiOWEtYTQwNy00NmRiLWE0ZWYtNTE0YjExZjFmZjkwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "url": "https://thefarawaydev.github.io/watch/series/player?series=a_silent_voice",
@@ -166,6 +174,14 @@
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
+    },
+    {
+        "title": "Fate/Apocrypha",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZDdiYTZjYjktYTZmZi00M2FkLWE4MjQtYTE3ZTg3ZWQwN2RiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=fate_apocrypha",
+        "dub_count": "25",
+        "sub_count": "25",
+        "episodes": "25"
     },
     {
         "title": "Farming Life In Another World",
