@@ -81,7 +81,7 @@
     },
     {
         "title": "Classroom Of The Elite",
-        "image_url": "",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BMDg3MGVhNWUtYTQ2NS00ZDdiLTg5MTMtZmM5MjUzN2IxN2I4XkEyXkFqcGc@._V1_.jpg",
         "url": "https://thefarawaydev.github.io/watch/series/player?series=classroom_of_the_elite",
         "dub_count": "38",
         "sub_count": "38",
@@ -376,6 +376,14 @@
         "episodes": "11"
     },
     {
+        "title": "That Time I Got Reincarnated As A Slime",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOTczMjM3MDUtYmZjMC00YzZhLWE4ODQtNjg5YWU4NTJjNzY2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=that_time_i_got_reincarnated_as_a_slime",
+        "dub_count": "49",
+        "sub_count": "49",
+        "episodes": "49"
+    },
+    {
         "title": "The Apothecary Diaries",
         "image_url": "https://imgs.search.brave.com/0EfuKvw42saobKTX8qpyJnwvYpxqjQsD_Ee28K6LoYo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5qQXhNbUZq/WmpndFlqTTFaUzAw/TnpkbUxUbGlaRGt0/Wm1JeU16VTVZVEJs/TkRCbVhrRXlYa0Zx/Y0djQC5qcGc",
         "url": "https://thefarawaydev.github.io/watch/series/player?series=the_apothecary_diaries",
@@ -462,6 +470,14 @@
         "dub_count": "120",
         "sub_count": "120",
         "episodes": "120"
+    },
+    {
+        "title": "The Slime Diaries: That Time I Got Reincarnated As A Slime",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZGUwNDhlZTktMTQ3NS00MGEyLTgyYjktZGU0ZDk0MzA1OTRhXkEyXkFqcGc@._V1_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=the_slime_diaries_that_time_i_got_reincarnated_as_a_slime",
+        "dub_count": "12",
+        "sub_count": "12",
+        "episodes": "12"
     },
     {
         "title": "Tomodachi Game",
