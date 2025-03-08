@@ -368,12 +368,28 @@
         "episodes": "11"
     },
     {
+        "title": "Say \"I Love You\".",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNzY2MjllODAtN2VjOS00MzZmLWIxYWItZDFkYjM1ODdiYTY5XkEyXkFqcGc@._V1_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=say_i_love_you",
+        "dub_count": "13",
+        "sub_count": "13",
+        "episodes": "13"
+    },
+    {
         "title": "Shikimori's Not Just A Cutie",
         "image_url": "https://m.media-amazon.com/images/M/MV5BYzM0MGRlMzEtMWIwNi00ZjAzLWIzODItMDNlNmM0MGU4MTY5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "url": "https://thefarawaydev.github.io/watch/series/player?series=shikimoris_not_just_a_cutie",
         "dub_count": "12",
         "sub_count": "12",
         "episodes": "12"
+    },
+    {
+        "title": "My Teen Romantic Comedy: SNAFU",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BNDE5NmZhN2ItNzU4YS00YTRlLWJlODYtMGQ1ZTQ2NTMxOTg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=snafu",
+        "dub_count": "38",
+        "sub_count": "38",
+        "episodes": "38"
     },
     {
         "title": "Solo Leveling",
