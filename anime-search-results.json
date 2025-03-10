@@ -40,6 +40,14 @@
         "episodes": "1"
     },
     {
+        "title": "Assassination Classroom",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BZjBkYmRiOTAtY2IwOS00ZWU3LTk3YjItNjMzYWZiMDE1MjcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=assassination_classroom",
+        "dub_count": "47",
+        "sub_count": "47",
+        "episodes": "47"
+    },
+    {
         "title": "Attack On Titan",
         "image_url": "https://imgs.search.brave.com/ZvrHsCWHVPQ4P7a4t6XkAfPEEOKrbDMvqniTlPpv62U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk5qWTRNRFF4/WlRJdE0ySmpNaTAw/TmpNNUxUazBNV1l0/T1RCbE5UWTJZakJp/Tm1GalhrRXlYa0Zx/Y0djQC5qcGc",
         "url": "https://thefarawaydev.github.io/watch/series/player?series=attack_on_titan",
@@ -81,7 +89,7 @@
     },
     {
         "title": "Bungo Stray Dogs",
-        "image_url": "",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BYzA5Y2MzNDAtZjBjZi00OTUzLWI5NDAtMTg1ODRhMmU2MGY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
         "url": "https://thefarawaydev.github.io/watch/series/player?series=bungo_stray_dogs",
         "dub_count": "60",
         "sub_count": "60",
@@ -270,6 +278,14 @@
         "dub_count": "47",
         "sub_count": "47",
         "episodes": "47"
+    },
+    {
+        "title": "Loving Yamada At Lv. 999",
+        "image_url": "https://m.media-amazon.com/images/M/MV5BOGU4NzQ3YzQtOTU4MC00ZGMzLThlOGMtODMzODg3YzM1Mzg2XkEyXkFqcGc@._V1_.jpg",
+        "url": "https://thefarawaydev.github.io/watch/series/player?series=loving_yamada_at_lv_999",
+        "dub_count": "13",
+        "sub_count": "13",
+        "episodes": "13"
     },
     {
         "title": "Magi: Adventure Of Sinbad",
